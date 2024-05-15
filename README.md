@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-bhadauriya&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-bhadauriya" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **DataStructures & Algorithms**
 
-- 📫 How to reach me **kaushalsingh1609@gmail.com**
+- 📫 Reach me **kaushalsingh1609@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
