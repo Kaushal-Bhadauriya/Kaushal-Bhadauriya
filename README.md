@@ -1,7 +1,6 @@
 ![Header](https://github.com/Kaushal-Bhadauriya/Kaushal-Bhadauriya/assets/141384680/f1399623-7c93-4414-878b-913953ddc7c9)
 <h1 align="center">Hi 👋, I'm Kaushal Singh</h1>
 <h3 align="center">Programming and indie EDM</h3>
-(img align="right" alt="Coding" width="400" src="")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-bhadauriya&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-bhadauriya" /> </p>
