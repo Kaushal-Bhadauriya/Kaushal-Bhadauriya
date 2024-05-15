@@ -1,16 +1,25 @@
-### Hi there 👋
+![Header](./github-header-image.png)
+<h1 align="center">Hi 👋, I'm Kaushal Singh</h1>
+<h3 align="center">Programming and indie EDM</h3>
+(img align="right" alt="Coding" width="400" src="")
 
-<!--
-**Kaushal-Bhadauriya/Kaushal-Bhadauriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-bhadauriya&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-bhadauriya" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **JavaScript**
+
+- 📫 How to reach me **kaushalsingh1609@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/kussh_hh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kussh_hh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-bhadauriya&show_icons=true&locale=en&layout=compact" alt="kaushal-bhadauriya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal-bhadauriya&show_icons=true&locale=en" alt="kaushal-bhadauriya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-bhadauriya&" alt="kaushal-bhadauriya" /></p>
