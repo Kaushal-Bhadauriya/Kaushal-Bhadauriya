@@ -1,23 +1,24 @@
 ![Header](https://github.com/Kaushal-Bhadauriya/Kaushal-Bhadauriya/assets/141384680/f1399623-7c93-4414-878b-913953ddc7c9)
-<h1 align="center">Hi 👋, I'm Kaushal Singh</h1>
+
+# 💫 About Me:
+🌱 I’m currently learning DataStructures & Algorithms<br>📫 Reach me kaushalsingh1609@gmail.com
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-bhadauriya&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-bhadauriya" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kussh_hh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/soya-samosa) 
 
-- 🌱 I’m currently learning **DataStructures & Algorithms**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kaushal-Bhadauriya&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kaushal-Bhadauriya&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal-Bhadauriya&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 Reach me **kaushalsingh1609@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kussh_hh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kussh_hh" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kaushal-Bhadauriya&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-bhadauriya&show_icons=true&locale=en&layout=compact" alt="kaushal-bhadauriya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal-bhadauriya&show_icons=true&locale=en" alt="kaushal-bhadauriya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-bhadauriya&" alt="kaushal-bhadauriya" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Kaushal-Bhadauriya&icon=2&color=0)](https://visitcount.itsvg.in)
