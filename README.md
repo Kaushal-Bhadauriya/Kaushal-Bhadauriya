@@ -1,6 +1,6 @@
 ![Header](https://github.com/Kaushal-Bhadauriya/Kaushal-Bhadauriya/assets/141384680/f1399623-7c93-4414-878b-913953ddc7c9)
 
-<h2 align="left">Hi 👋! My name is Kaushal and I'm a developer, from india who excels in making discord bots!</h2>
+<h2 align="left">Developer, from india who excels in making discord bots!</h2>
 
 ###
 
@@ -34,10 +34,5 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-</div>
 
 ###
