@@ -1,13 +1,5 @@
 ![Header](https://github.com/Kaushal-Bhadauriya/Kaushal-Bhadauriya/assets/141384680/f1399623-7c93-4414-878b-913953ddc7c9)
 
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushal-Bhadauriya&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushal-Bhadauriya&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal-Bhadauriya&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
-
-
 <!-- Tech Stack -->
 <div align="center">
   
